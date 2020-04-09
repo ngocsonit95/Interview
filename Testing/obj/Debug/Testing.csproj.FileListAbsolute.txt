@@ -1,0 +1,6 @@
+E:\1.DATA\2.Hoc-Tap\11.Traning\Interview\Testing\bin\Debug\Testing.exe.config
+E:\1.DATA\2.Hoc-Tap\11.Traning\Interview\Testing\bin\Debug\Testing.exe
+E:\1.DATA\2.Hoc-Tap\11.Traning\Interview\Testing\bin\Debug\Testing.pdb
+E:\1.DATA\2.Hoc-Tap\11.Traning\Interview\Testing\obj\Debug\Testing.csprojAssemblyReference.cache
+E:\1.DATA\2.Hoc-Tap\11.Traning\Interview\Testing\obj\Debug\Testing.exe
+E:\1.DATA\2.Hoc-Tap\11.Traning\Interview\Testing\obj\Debug\Testing.pdb
